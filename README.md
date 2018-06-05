@@ -1,2 +1,3 @@
-# Euro-Travels
-A Free Responsive Agency Template 
+# Little Star Travel & Tours
+
+>> http://travel-littlestar.tk/
